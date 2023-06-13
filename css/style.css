@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Helvetica;
+    background-color: teal;
+   
+  }
+  
+  .div-1 {
+    background-color: white; 
+    border-bottom: solid green;
+    border-bottom-width: 50px;
+    float: left;margin-left: 100px;
+    height: 350px;
+    width: 200px;
+    text-align: center;
+    background-image: url("https://i.imgur.com/iUpkmhs.png");background-repeat: no-repeat;background-position: center;
+ 
+    
+   }
+
+   
+  background-image: url('https://media.istockphoto.com/id/639805094/photo/happy-man.jpg?s=612x612&w=0&k=20&c=REx0Usczge4a0soQvp7fQgGCcFMHeORGUTpOIPW-IYA=');
+
