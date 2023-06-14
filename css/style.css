@@ -10,14 +10,15 @@
   }
   
   .div-1 {
+    padding: 40px;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-evenly;
     background-color: white; 
     border-bottom: solid green;
     border-bottom-width: 50px;
     float: left;margin-left: 100px;
-    height: 350px;
+    height: 400px;
     width: 200px;
     text-align: center;
     background-image: url("https://i.imgur.com/iUpkmhs.png");background-repeat: no-repeat;background-position: center;
